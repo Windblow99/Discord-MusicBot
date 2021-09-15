@@ -19,9 +19,9 @@ module.exports = {
   //Lavalink
    Lavalink: {
     id: "Main",
-    host: "lava.sudhan.tech",
-    port: 1234,
-    pass: "CodingWithSudhan", 
+    host: "boobs-lavalink.herokuapp.com",
+    port: 80,
+    pass: "jinyutan99", 
     secure: false, // Set this to true if you're self-hosting lavalink on replit.
   },
 
